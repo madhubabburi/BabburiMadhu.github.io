@@ -883,10 +883,14 @@ ul.simplefilter {
     width: 50%;
 	padding-left: 14em;
 }
+.contact-left-agile {
+    float: left;
+    width: 50%;
+	padding-left: 14em;
+}
 .contact-right-w3l {
     float: right;
-    width: 50%;
-	background: #eee;
+    width: 50%;	
 }
 input[type="text"], input[type="email"], .contact-right-w3l textarea{
     width: 80%;
@@ -934,7 +938,7 @@ input[type="submit"]:hover {
     float: right;
     width: 50%;
 }
-.contact-left-agile{
+.contact-total-agile{
   background: url(../images/contact2.jpg) no-repeat 0px 0px;
   background-size: cover;
   -webkit-background-size: cover;
@@ -968,7 +972,7 @@ input[type="submit"]:hover {
 .add-w3ls2 {
     float: right;
     width: 85%;
-	margin: 9px 0px;
+	margin: 26px 0px;
 }
 .add-w3ls-main span {
     color: #fff;
